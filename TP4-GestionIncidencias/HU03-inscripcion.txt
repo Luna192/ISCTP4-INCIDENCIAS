@@ -1,1 +1,2 @@
 HU03: Inscripción a eventos funcional.
+Segundo avance en inscripción
